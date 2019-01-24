@@ -117,7 +117,7 @@ public class Aula5 {
 		cursos.stream()
 		    .mapToInt(c -> c.getAlunos())
 		    .average();
-		
+		//teste para ver se esse arquivo necessitará de commit no git
 	}
 	
 	
